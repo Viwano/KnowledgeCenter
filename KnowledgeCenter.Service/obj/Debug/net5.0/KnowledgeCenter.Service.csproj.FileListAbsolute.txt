@@ -1,0 +1,15 @@
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\bin\Debug\net5.0\KnowledgeCenter.Service.deps.json
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\bin\Debug\net5.0\KnowledgeCenter.Service.dll
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\bin\Debug\net5.0\KnowledgeCenter.Service.pdb
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\obj\Debug\net5.0\KnowledgeCenter.Service.csproj.AssemblyReference.cache
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\obj\Debug\net5.0\KnowledgeCenter.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\obj\Debug\net5.0\KnowledgeCenter.Service.AssemblyInfoInputs.cache
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\obj\Debug\net5.0\KnowledgeCenter.Service.AssemblyInfo.cs
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\obj\Debug\net5.0\KnowledgeCenter.Service.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\obj\Debug\net5.0\KnowledgeCenter.Service.dll
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\obj\Debug\net5.0\refint\KnowledgeCenter.Service.dll
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\obj\Debug\net5.0\KnowledgeCenter.Service.pdb
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\obj\Debug\net5.0\ref\KnowledgeCenter.Service.dll
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\bin\Debug\net5.0\KnowledgeCenter.Data.dll
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\bin\Debug\net5.0\KnowledgeCenter.Data.pdb
+C:\Users\Vahid\Source\repos\KnowledgeCenter\KnowledgeCenter.Service\obj\Debug\net5.0\KnowledgeCenter.Service.csproj.CopyComplete
